@@ -79,7 +79,7 @@ Dedicated to **LeetCode**, Data Structures, and Algorithm optimization.  
 </a>
 
 <a href="https://leetcode.com/peeyush_tiwari">
-  <img src="https://img.shields.io/badge/LEETCODE-peeyush__tiwari-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LEETCODE-peeyush_tiwari-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="mailto:tiwari.peeyush2006@gmail.com">
