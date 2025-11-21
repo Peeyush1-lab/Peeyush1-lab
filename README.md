@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2500&pause=800&color=9AFF9A&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Peeyush+Tiwari;AI+%26+ML+Enthusiast;BCA+Student+%7C+Tech+Explorer;Building+Smart+%26+Modern+Systems+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=9AFF9A&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Peeyush+Tiwari;AI+%26+ML+Enthusiast;BCA+Student+%7C+Tech+Explorer;Building+Smart+%26+Modern+Systems+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
 
 <p align="center">
@@ -77,11 +77,11 @@ Dedicated to **LeetCode**, Data Structures, and Algorithm optimization.  
 <a href="https://linkedin.com/in/peeyush-tiwari-105b22323">
   <img src="https://img.shields.io/badge/LINKEDIN-Peeyush_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/peeyush_tiwari">
   <img src="https://img.shields.io/badge/LEETCODE-peeyush_tiwari-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
+&nbsp;
 <a href="mailto:tiwari.peeyush2006@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
