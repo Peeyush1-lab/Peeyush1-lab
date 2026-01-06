@@ -61,7 +61,7 @@ Dedicated to **LeetCode**, Data Structures, and Algorithm optimization.  
   
   <br><br>
 
-  <img src="https://streak-stats.demolab.com/?user=peeyush1-lab&theme=tokyonight&hide_border=true&ring=00F5C9&side_border=00F5C9"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Peeyush1-lab&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
