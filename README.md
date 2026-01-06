@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=peeyush1-lab&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
 </p>
 
+![Stars](https://img.shields.io/github/stars/peeyush1-lab?style=flat-square)
+![Followers](https://img.shields.io/github/followers/peeyush1-lab?style=flat-square)
+![Repos](https://img.shields.io/badge/Public%20Repos--blue?style=flat-square)
+
 <br>
 
 #
@@ -53,37 +57,20 @@ Dedicated to **LeetCode**, Data Structures, and Algorithm optimization.  
 <br>
 
 ## 📈 Activity Dashboard
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=peeyush1-lab&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5C9&icon_color=00F5C9" height="160px" style="margin-right: 5px;"/>
-  <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peeyush1-lab&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5C9&icon_color=00F5C9" height="160px" style='margin-left: 5px;'/>
-  
-  <br><br>
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Peeyush1-lab&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
+|DashBoard|
+|:---:|
+|<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peeyush1-lab&theme=tokyonight"/>|
+|<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Peeyush1-lab&theme=dark" alt="GitHub Streak" /></a>|
+|![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peeyush1-lab)|
 
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  
-<a href="https://linkedin.com/in/peeyush-tiwari-105b22323">
-  <img src="https://img.shields.io/badge/LINKEDIN-Peeyush_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/peeyush_tiwari">
-  <img src="https://img.shields.io/badge/LEETCODE-peeyush_tiwari-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-&nbsp;
-<a href="mailto:tiwari.peeyush2006@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+| | | |
+|:--:|:--:|:--:|
+| [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Peeyush_Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peeyush-tiwari-105b22323) | [![LeetCode](https://img.shields.io/badge/LEETCODE-peeyush_tiwari-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/peeyush_tiwari) | [![Email](https://img.shields.io/badge/EMAIL-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwari.peeyush2006@gmail.com) |
 
-</div>
+
 
 <br>
 
