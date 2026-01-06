@@ -55,12 +55,9 @@ Dedicated to **LeetCode**, Data Structures, and Algorithm optimization.  
 ## 📈 Activity Dashboard
 
 <div align="center">
-  <a href="https://github.com/peeyush1-lab">
     <img src="https://github-readme-stats.vercel.app/api?username=peeyush1-lab&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5C9&icon_color=00F5C9" height="160px" style="margin-right: 5px;"/>
-  </a>
-  <a href="https://github.com/peeyush1-lab">
+  <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peeyush1-lab&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5C9&icon_color=00F5C9" height="160px" style='margin-left: 5px;'/>
-  </a>
   
   <br><br>
 
