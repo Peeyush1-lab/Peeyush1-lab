@@ -60,7 +60,7 @@ Dedicated to **LeetCode**, Data Structures, and Algorithm optimization.  
 |DashBoard|
 |:---:|
 |<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peeyush1-lab&theme=tokyonight"/>|
-|<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Peeyush1-lab&theme=dark" alt="GitHub Streak" /></a>|
+|<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=peeyush1-lab&theme=dark" alt="GitHub Streak" /></a>|
 |![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peeyush1-lab)|
 
 
