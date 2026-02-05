@@ -57,10 +57,10 @@ Dedicated to **LeetCode**, Data Structures, and Algorithm optimization.  
 <br>
 
 ## 📈 Activity Dashboard
-|DashBoard||
-|:---:|:---:|
-|<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peeyush1-lab&theme=tokyonight"/>|![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peeyush1-lab)|
-|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peeyush1-lab&show_icons=true&locale=en" alt="peeyush1-lab" /></p> |<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeyush1-lab&show_icons=true&locale=en&layout=compact" alt="peeyush1-lab" /></p>|
+|DashBoard|
+|:---:|
+|<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peeyush1-lab&theme=tokyonight"/>|
+|![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peeyush1-lab)|
 
 
 ## 🌐 Connect With Me
