@@ -1,6 +1,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=9AFF9A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Peeyush+Tiwari;AI+%26+ML+Enthusiast;BCA+Student+%7C+Tech+Explorer;Building+Smart+%26+Modern+Systems+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
@@ -12,9 +11,9 @@
 ![Stars](https://img.shields.io/github/stars/peeyush1-lab?style=flat-square)
 ![Followers](https://img.shields.io/github/followers/peeyush1-lab?style=flat-square)
 ![Repos](https://img.shields.io/badge/Public%20Repos--blue?style=flat-square)
-<iframe src="https://github.com/sponsors/Peeyush1-lab/button" title="Sponsor Peeyush1-lab" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-<br>
-
+<a href="https://github.com/sponsors/Peeyush1-lab">
+  <img src="https://img.shields.io/badge/Sponsor%20Me-%F0%9F%92%96-pink" />
+</a>
 #
 ## ⚡ About Me
 
