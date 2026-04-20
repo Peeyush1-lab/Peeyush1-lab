@@ -12,7 +12,7 @@
 ![Stars](https://img.shields.io/github/stars/peeyush1-lab?style=flat-square)
 ![Followers](https://img.shields.io/github/followers/peeyush1-lab?style=flat-square)
 ![Repos](https://img.shields.io/badge/Public%20Repos--blue?style=flat-square)
-
+<iframe src="https://github.com/sponsors/Peeyush1-lab/button" title="Sponsor Peeyush1-lab" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 <br>
 
 #
