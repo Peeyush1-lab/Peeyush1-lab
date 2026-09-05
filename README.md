@@ -66,8 +66,12 @@ Dedicated to **LeetCode**, Data Structures, and Algorithm optimization.  
 |DashBoard|
 |:---:|
 |<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peeyush1-lab&theme=tokyonight"/>|
-|![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=peeyush1-lab)|
-|![](https://nirzak-streak-stats.vercel.app/?user=peeyush1-lab&theme=transparent&hide_border=false)<br/>|
+
+<img
+  src="https://github-statspro.vercel.app/api/stats/peeyush1-lab"
+  alt="Stats Card"
+width="360px"/>
+</p>
 
 
 ## 🌐 Connect With Me
