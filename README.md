@@ -69,9 +69,9 @@ Dedicated to **LeetCode**, Data Structures, and Algorithm optimization.  
 
 |📊 GitHub Stats|
 |:---:|
-|<img src="https://github-statspro.vercel.app/api/stats/peeyush1-lab" />|
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush-lab&layout=compact&theme=github_dark&hide_border=true" /> | 
-|<img src="https://streak-stats.demolab.com?user=Peeyush-lab&theme=github-dark-blue&hide_border=true" />  |
+|<img src="https://github-readme-stats.vercel.app/api?username=Peeyush1-lab&show_icons=true&layout=compact&theme=github_dark&hide_border=true" /> | 
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeyush1-lab&layout=compact&theme=github_dark&hide_border=true" />|
+|<img src="https://streak-stats.demolab.com?user=Peeyush1-lab&theme=github-dark-blue&hide_border=true" />  |
 
 
 ## 🌐 Connect With Me
